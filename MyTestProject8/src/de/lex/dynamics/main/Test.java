@@ -7,6 +7,6 @@ package de.lex.dynamics.main;
 public class Test {
 	
 	public static String getName() {
-		return "Test";
+		return "Test2";
 	}
 }
